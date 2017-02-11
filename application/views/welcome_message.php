@@ -4,11 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-<<<<<<< HEAD
 	<title>Welcome to CodeIgniter b1</title>
-=======
-	<title>Welcome to CodeIgniter</title>
->>>>>>> 23a86787d024714f16865de6b7863c686668c338
 	<style type="text/css">
 
 	::selection { background-color: #E13300; color: white; }
